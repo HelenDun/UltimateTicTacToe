@@ -3,4 +3,6 @@ An Ultimate Tic-Tac-Toe game program and the final project for my AP Computer Sc
 
 This program is satisfactory to me and has extra features such as a variable game board size, changeable player names and changeable player colors with a secondary color that adjusts based on the input player color. The only drawback of this program is the X and O figures because they do not scale in size. It took me a few days and several hours of debugging as I kept telling myself, "only one more hour of debugging". 
 
+Here is a Youtube video of the program on my MacBook Pro Laptop: https://youtu.be/BR_VVmZvYjA
+
 Coded, debugged and tested entirely by me, Helen Dun.
